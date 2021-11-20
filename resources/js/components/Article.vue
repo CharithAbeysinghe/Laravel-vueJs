@@ -1,5 +1,5 @@
 <template>
 <div>
-dsdsdsdsdsds
+articale one
 </div>
 </template>
